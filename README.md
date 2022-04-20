@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pavankumar (@P650)
 - 👀 I’m interested in Software development.
-- 🌱 I’m currently learning masters of science in computer science.
+- 🌱 I’m currently perusing masters of science in computer science.
 - 💞️ I’m looking to collaborate on Backend programming.
 - 📫 How to reach me kpkumbar99@gmail.com
 
