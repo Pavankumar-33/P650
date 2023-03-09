@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Pavankumar (P650)</h1>
 <h3 align="center">A passionate Python, scientific calculations, Math, Back-end developer, Front-end development .</h3>
-<img align="right" alt="Code_image" width = "400" src = "https://www.lambdatest.com/resources/images/news24.gif" >
+<img align="right" alt="Code_image" width = "600" src = "https://www.lambdatest.com/resources/images/news24.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p650&label=Profile%20views&color=0e75b6&style=flat" alt="p650" /> </p>
 
